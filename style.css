@@ -1,0 +1,15 @@
+nav{
+    background:black;
+    color:white;
+    padding:20px;
+}
+section{
+    text-align:center;
+    padding:80px 20px;
+}
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
